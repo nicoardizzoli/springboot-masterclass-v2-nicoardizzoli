@@ -1,4 +1,4 @@
-# springboot-masterclass-v2-nicoardizzoli
+# Spring Boot Masterclass
 
 - Why Spring Framework?
 - Features and Advantages of Spring Framework
